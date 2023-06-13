@@ -1,5 +1,10 @@
 # Implementation for _Fairness in Multi-Task Learning via Wasserstein Barycenters_
 
+- Francois Hu ([curiousml.github.io](https://curiousml.github.io/))
+- Arthur Charpentier ([freakonometrics.github.io](https://freakonometrics.github.io/))
+- Philipp Ratz ([phi-ra.github.io](https://phi-ra.github.io/))
+
+
 ## Main Results
 
 We had to construct our own benchmarks as we are unfortunately unaware of other contributions in the field of Fair-MTL that open-sourced their code. 
