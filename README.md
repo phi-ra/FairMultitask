@@ -1,9 +1,8 @@
-# Implementation for _Fairness in Multi-Task Learning via Wasserstein Barycenters
+# Implementation for _Fairness in Multi-Task Learning via Wasserstein Barycenters_
 
 - Francois Hu ([curiousml.github.io](https://curiousml.github.io/))
 - Arthur Charpentier ([freakonometrics.github.io](https://freakonometrics.github.io/))
 - Philipp Ratz ([phi-ra.github.io](https://phi-ra.github.io/))
-
 
 ## Main Results
 
